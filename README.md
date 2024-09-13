@@ -9,7 +9,7 @@ In the terminal, run the following lines:
 make build
 ./a.out
 ```
-Then, follow the instructions outputted to the terminal. To use test file that come with the program, use files <b>nu.osm</b> when prompted to enter file name. One larger test file (ns.osm) was omitted from GitHub to avoid using GitHub LFS.
+Then, follow the instructions outputted to the terminal. To use test file that come with the program, use file <b>nu.osm</b> when prompted to enter file name. One larger test file (ns.osm) was omitted from GitHub to avoid using GitHub LFS.
 
 ## How to read code
 Almost each unique file name corresponds to a new class, which includes a .h file detailing the class & its functions and a .cpp file with its implementation.
