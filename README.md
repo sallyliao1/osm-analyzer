@@ -1,7 +1,7 @@
 # OpenStreetMap (OSM) analyzer
 This is a C++ program which allows users to easily search a OSM file for a desired building and find the building’s closest northbound and southbound CTA bus stops, address, ID, geographic coordinates. It uses an API key to extract when the next northbound and southbound bus is going to arrive at the closest bus stops.
 
-This project was created in the Winter '24 section of a CS class.
+This project was created in the Winter '24 section of a CS class. The base code was provided to all students, but many files were created by me: you can identify which files I made/modified significantly by looking at the headers. 
 
 ## How to use
 In the terminal, run the following lines: 
